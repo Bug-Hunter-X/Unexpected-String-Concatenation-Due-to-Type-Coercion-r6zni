@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug related to type coercion.  The `foo` function intends to add two numbers, but due to type coercion, it performs string concatenation when one of the arguments is a string.  The solution showcases how to explicitly convert inputs to numbers to ensure correct addition.
